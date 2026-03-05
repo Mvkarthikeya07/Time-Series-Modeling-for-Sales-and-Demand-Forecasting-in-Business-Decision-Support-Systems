@@ -134,7 +134,7 @@ To ensure reliability and transparency, the model is evaluated using:
 Both metrics are displayed as **KPI cards** on the dashboard.
 
 ---
-
+```
 ## 🖥️ Application Features
 
 ✔ Historical sales visualization
@@ -143,7 +143,7 @@ Both metrics are displayed as **KPI cards** on the dashboard.
 ✔ Interactive time-series chart
 ✔ Clean, KPI-driven dashboard UI
 ✔ Business-oriented insights
-
+```
 ---
 
 ## 📷 Output Screenshots
