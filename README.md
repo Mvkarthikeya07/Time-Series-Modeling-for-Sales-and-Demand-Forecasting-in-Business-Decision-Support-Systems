@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-# 📈 Time-Series Sales & Demand Forecasting System
+# 📈 Time-Series Sales & Demand Forecasting Syste
 
 ### A Business Decision Support System powered by ARIMA, Flask, and Chart.js
 
